@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Evelyn!
 - 👀 I’m interested in Computer Science Engineering 
 - 🌱 I’m currently learning at Texas A&M International University
-- 📫 How to reach me through email: evelyn.padilla083@gmail.com / evelynpadilla@dusty.tamiu.edu
 - 😄 Pronouns: She/Her
 
 <!---
